@@ -1,0 +1,45 @@
+!DOCTYPE html
+html lang=en
+head
+  meta charset=UTF-8
+  meta name=viewport content=width=device-width, initial-scale=1.0
+  titleYour Name  Portfoliotitle
+  link rel=stylesheet href=style.css
+head
+body
+  header
+    h1Your Nameh1
+    nav
+      a href=#workWorka
+      a href=#aboutAbouta
+      a href=#contactContacta
+    nav
+  header
+
+  section id=hero
+    h2Designer • Creator • Problem Solverh2
+    pI bring ideas to life through thoughtful design and clean visuals.p
+  section
+
+  section id=work
+    h2Featured Workh2
+    div class=grid
+      !-- Add project cards here --
+    div
+  section
+
+  section id=about
+    h2About Meh2
+    pWrite a short bio here.p
+  section
+
+  section id=contact
+    h2Contacth2
+    pEmail you@example.comp
+  section
+
+  footer
+    p© 2026 Your Namep
+  footer
+body
+html
